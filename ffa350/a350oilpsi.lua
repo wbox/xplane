@@ -9,7 +9,7 @@
 -- from both engine N3
 -- ----------------------------------------------------------------------------------
 
-if PLANE_ICAO == "A350" then
+if PLANE_ICAO == "A359" then
 
     function set_oil_psi()
         set_array("sim/flightmodel/engine/ENGN_oil_press_psi", 0, get("1-sim/ind/eng/N3/L"))
