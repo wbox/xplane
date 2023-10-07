@@ -1,7 +1,5 @@
 # Flight Factor A350 Oil PSI
 
-## Use at your own risk
-
 This is a lua script that simulates the oil psi for Flight Factor A350.
 Use this script at your own risk. I cannot provide any support or guarantee
 that this script will not cause any damange on your computer, simulator, other
@@ -17,3 +15,7 @@ formulas, please open an issue to share the information or even to fix it.
 ## How to install
 
 Copy the a350oilpsi.lua script to the FlyWithLua scripts folder
+
+## Releases / Changelog
+
+v0.1 - First release
