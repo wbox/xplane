@@ -18,4 +18,6 @@ Copy the a350oilpsi.lua script to the FlyWithLua scripts folder
 
 ## Releases / Changelog
 
-v0.1 - First release
+v0.1.0 - First release
+v0.1.1 - Add condition to check if the aircraft is A359
+v0.1.2 - Improve PSI calculations
